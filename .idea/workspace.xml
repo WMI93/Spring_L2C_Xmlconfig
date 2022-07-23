@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="37029b7a-d9e6-40d6-bb00-a8b7e436c311" name="Changes" comment="" />
+    <list default="true" id="b6326080-526b-4057-8137-a92b0dc1c1c3" name="Changes" comment="configuration Spring with Xml Configuration&#10;get Attribute from perperties files">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_logging_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/spring_context_5_3_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring_L2C_Xmlconfig.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring_L2C_Xmlconfig.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wmi/springL2CXMLConfig/ImplCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wmi/springL2CXMLConfig/ImplCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wmi/springL2CXMLConfig/ImplCoach2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wmi/springL2CXMLConfig/ImplCoach2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wmi/springL2CXMLConfig/MyApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wmi/springL2CXMLConfig/MyApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wmi/springL2CXMLConfig/coash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wmi/springL2CXMLConfig/coash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wmi/springL2CXMLConfig/fortune.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wmi/springL2CXMLConfig/fortune.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/wmi/springL2CXMLConfig/implFortune.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/wmi/springL2CXMLConfig/implFortune.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="2CLxuzEZxtbUdsSCqu921XLIKmk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,21 +32,65 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/@Work/_WorkSpace/SprngProject/L2C/libs/spring-core-5.3.9.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
+  <component name="RunManager">
+    <configuration name="MyApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wmi.springL2CXMLConfig.MyApp" />
+      <module name="Spring_L2C_Xmlconfig" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wmi.springL2CXMLConfig.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyApp" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="37029b7a-d9e6-40d6-bb00-a8b7e436c311" name="Changes" comment="" />
-      <created>1658595896624</created>
+      <changelist id="b6326080-526b-4057-8137-a92b0dc1c1c3" name="Changes" comment="" />
+      <created>1658606987777</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1658595896624</updated>
+      <updated>1658606987777</updated>
+      <workItem from="1658606990445" duration="383000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="configuration Spring with Xml Configuration&#10;get Attribute from perperties files" />
+    <option name="LAST_COMMIT_MESSAGE" value="configuration Spring with Xml Configuration&#10;get Attribute from perperties files" />
   </component>
 </project>
